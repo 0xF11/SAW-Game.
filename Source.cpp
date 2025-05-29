@@ -35,6 +35,13 @@ int main()
 	else if (input == "Y")
 	{
 		textel("SAW: Good.... you had no choice anyways...");
+	}	if (input == "n")
+	{
+		textel("SAW: I don't care. I Want to play the game...");
+	}
+	else if (input == "y")
+	{
+		textel("SAW: Good.... you had no choice anyways...");
 	}
 
 	Sleep(1500);
